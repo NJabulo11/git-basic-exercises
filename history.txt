@@ -189,3 +189,22 @@
   189  git switch history
   190  ls
   191  history > history.txt
+  192  git commit -m " added history"
+  193  git add history.txt
+  194  ls
+  195  git log
+  196  rm README.md
+  197  echo "booya" > REDAME.md
+  198  git commit -m "rewrote readme"
+  199  mv REDAME.md README.md
+  200  git add README.md
+  201  git commit -m "rewrote readme"
+  202  ls
+  203  git log
+  204  git switch milkshake-flavours
+  205  git log
+  206  git switch history
+  207  git log
+  208  rv history.txt
+  209  rm history.txt
+  210  history > history.txt
