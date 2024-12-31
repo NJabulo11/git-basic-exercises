@@ -1,4 +1,5 @@
-lets try this,,
+<<<<<<< HEAD
+lets try this.
 
 this read me file should be flavours i messed up somewhere
 "third commit"
@@ -6,3 +7,6 @@ this read me file should be flavours i messed up somewhere
 "second commit"
 
 This is lowkey cool. can't believe a week and a half ago. I didn't know any of this.
+=======
+booya
+>>>>>>> history

@@ -139,3 +139,76 @@
   139  git log
   140  git branch 
   141  history > history.txt
+<<<<<<< HEAD
+=======
+  142  git commit m- "added history"
+  143  git commit -m "added history"
+  144  git add
+  145  git add history,txt
+  146  git add history.txt
+  147  git log
+  148  git switch milkshake-flavors
+  149  git switch milkshake-flavours
+  150  nano README.md
+  151  git commit -m "random readme changes"
+  152  git switch history
+  153  cat README.md
+  154  git switch history
+  155  git checkout history
+  156  git switch main
+  157  git switch master
+  158  git add README.md
+  159  git switch master
+  160  git add README.me
+  161  git add README.md
+  162  git switch master
+  163  git commit -m "random readme changes"
+  164  git checkout history
+  165  git switch history 
+  166  git branch 
+  167  git switch histroy
+  168  git branch -m history
+  169  can README.md
+  170  cat README.md
+  171  rm README.md
+  172  echo "booya" > README.md
+  173  git commit -m "rewrote readme"
+  174  git add README.md
+  175  git checkout main
+  176  ls
+  177  git log
+  178  git switch milkshake-flavours
+  179  git commit -m " random readme changes"
+  180  add git README.md
+  181  git add README.md
+  182  git switch milkshake-flavours
+  183  ls
+  184  mv history.txt history
+  185  ls
+  186  rm history
+  187  ls
+  188  git log
+  189  git switch history
+  190  ls
+  191  history > history.txt
+  192  git commit -m " added history"
+  193  git add history.txt
+  194  ls
+  195  git log
+  196  rm README.md
+  197  echo "booya" > REDAME.md
+  198  git commit -m "rewrote readme"
+  199  mv REDAME.md README.md
+  200  git add README.md
+  201  git commit -m "rewrote readme"
+  202  ls
+  203  git log
+  204  git switch milkshake-flavours
+  205  git log
+  206  git switch history
+  207  git log
+  208  rv history.txt
+  209  rm history.txt
+  210  history > history.txt
+  
+>>>>>>> history
