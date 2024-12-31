@@ -1,0 +1,141 @@
+    1  git config --global user.name "NJabulo Mogale"
+    2  git config --global user.email nj.njzzle@gmail.com
+    3  git help
+    4  git hlep config
+    5  git help config
+    6  ls/
+    7  ls
+    8  mkdir Git Projects
+    9  touch PROJECT: BEGINNING DASH
+   10  mv PROJECT: BEGINNING DASH Git Projects
+   11  PROJECT: BEGINNIG DASH PROJECT: BEGINNING DASH.txt
+   12  mv PROJECT: BEGINNING DASH PROJECT: BEGINNING DASH.TXT
+   13  rm PROJECT: BEGINNING DASH
+   14  Git projects ls
+   15  ls Git Projects
+   16  mkdir Gitprojects
+   17  touch beginningDash.txt
+   18  open beginningDash.txt
+   19  start beginningDash.txt
+   20  mv beginningDash.txt beginningDash.md
+   21* touch question _{1..13}.md 
+   22  ls
+   23  gitprojects touch question _ {1..13}.md
+   24  cd ~ gitProjects
+   25  cd gitProjects
+   26   touch question_ {1..13}.md
+   27  ls
+   28  find ._question "question_*.md"
+   29  touch question-{_1.._13}.md
+   30  touch question -{1..13}.md
+   31  touch question_ -{1..13}/md
+   32  touch --help
+   33  touch question-{1..13}.md
+   34  touch question-{1..13}.md
+   35  touhc --help
+   36  touch --help
+   37  touch question_{1..13}.md
+   38  mkdir "gitProjects/ Beginning bash"
+   39  mkdir "gitrojects/ Beginning bash"
+   40  mkdir "gitprojects/ Beginning bash"
+   41  mkdir "gitProjects/ Beginning bash"
+   42  mkdir gitProjects/beginning\ bash
+   43  mkdir "Beginning bash"
+   44  mv question_{1..13}.md beginning bash
+   45  mv question_{1..13}.md "beginning bash"
+   46  https://github.com/NJabulo11/project-Beginning-Bash.git
+   47  git clone https://github.com/NJabulo11/project-Beginning-Bash.git
+   48   git push origin NJabulo11
+   49  git push origin project-Beginning-Bash
+   50  cd project-Beginning-Bash
+   51  git add question_{1..13}.md
+   52  git commit -m "Add question files from 1 to 13"
+   53  cd
+   54  cd gitProjects
+   55  mkdir git-basic-excercises
+   56  cd git-basic-excercises/
+   57  ls
+   58  git init
+   59  ls -a
+   60  git status
+   61  touch README.md
+   62  ls -a
+   63  git status
+   64  git log
+   65  git add README.md
+   66  git stauts 
+   67  git status
+   68  git reset README.md
+   69  git stauts
+   70  git status
+   71  git add README.md
+   72  git commit -m "initial commit"
+   73  git log
+   74  q
+   75  nano README.md
+   76  cat README.md
+   77  git status
+   78  git add README.md
+   79  nano README.md
+   80  git add README.md
+   81  git stauts
+   82  git status
+   83  git add README.md
+   84  git status
+   85  nano README.md
+   86  git add README.md
+   87  git status README.md
+   88  git log
+   89  cat README.md
+   90  git log README.md
+   91  git status
+   92  git commit -m "second commit"
+   93  nano README.md
+   94  git status
+   95  git add README.md
+   96  git log
+   97  git commit -m "third commit"
+   98  git log
+   99  git checkout a60985c06a7eaf3abc03dbf218c8016693c946a7
+  100  cat README.md
+  101  git checkout main
+  102  cat README.md
+  103  cd
+  104  cd git-basic-excercises
+  105  cd git-basic-excercises
+  106  cd Gitprojects
+  107  cd git-basic-excercises
+  108  git branch milkshake-flavours
+  109  git branch
+  110  git branch
+  111  nano milkshakes.md
+  112  git status
+  113  git commit -m "added initial flavours"
+  114  add git milkshakes.md
+  115  git add milkshakes.md
+  116  git status
+  117  git log
+  118  git commit -m "added initial flavours"
+  119  git log
+  120  git add milkshakes.md
+  121  git branch
+  122  milkshake-floavours
+  123  cd milkshake-flavours
+  124  git checkout milkshake-flavours
+  125  nano milkshakes.md
+  126  git status
+  127  git commit -m "added initial flavours"
+  128  git add milkshakes.md
+  129  git status
+  130  git log
+  131  git commit -m "initial flavours"
+  132  git add milkshakes.md
+  133  git log
+  134  cd main
+  135  git branch
+  136  git branch master
+  137  git switch master
+  138  git branch histroy 
+  139  git log
+  140  git branch 
+  141  history > history.txt
